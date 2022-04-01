@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 export const Page1 = () => {
+  const arr = [...Array];
   return (
     <div>
       <h1>Page1ページです</h1>
